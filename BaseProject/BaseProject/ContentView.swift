@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello World Value")
+        Text("Hello World Value is printed")
     }
 }
 
